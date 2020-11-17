@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  text-decoration: none; list-style: none;
+  overflow: hidden;
+  height: 100%;
+}
+
+h1, h2, ul, li, a, h3 {color: white;
+font-family: 'Comfortaa', cursive;}
+header{height: 150px;}
+#logo {width: 150px;}
+nav{float: right; margin: 50px 500px auto auto;}
+ a {color: white; text-decoration: none; list-style: none; float: left; padding-right: 70px; }
+
+.video_nav {float: right; margin: 50px 50px auto auto;}
+
+span {color: #E54747;}
+h2  {font-size: 30px; position: absolute; margin: 200px auto auto 200px;}
+.button {font-size: 20px; position: absolute; margin: 370px auto auto 200px; width: 150px; border-radius: 50px; height: 50px; background-color: #E54747; border-width: 0; color: white; text-align: center;}
+.button a{margin-left: 35px; margin-top: 13px;}
+h1 {font-size: 100px; position: absolute; margin: 250px auto auto 200px; letter-spacing: 0.05em; font-weight: bolder;}
+#bild1 {margin-left: 1350px; position: absolute; margin-top: -300px; width: 600px;}
+#bild2 {margin-left: 950px; margin-top: -100px; position: absolute; width: 1000px; border}
